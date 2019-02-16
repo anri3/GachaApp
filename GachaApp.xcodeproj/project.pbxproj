@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E151B3FF22183AE400AB92C3 /* background.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E151B3FE22183AE300AB92C3 /* background.jpeg */; };
+		E151B40922183E7200AB92C3 /* shikoku.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E151B40022183E6E00AB92C3 /* shikoku.jpeg */; };
+		E151B40A22183E7200AB92C3 /* okinawa.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E151B40122183E6F00AB92C3 /* okinawa.jpeg */; };
+		E151B40B22183E7200AB92C3 /* hokkaidou.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E151B40222183E7000AB92C3 /* hokkaidou.jpeg */; };
+		E151B40C22183E7200AB92C3 /* kinki.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E151B40322183E7000AB92C3 /* kinki.jpeg */; };
+		E151B40D22183E7200AB92C3 /* chuubu.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E151B40422183E7000AB92C3 /* chuubu.jpeg */; };
+		E151B40E22183E7200AB92C3 /* chuugoku.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E151B40522183E7100AB92C3 /* chuugoku.jpeg */; };
+		E151B40F22183E7200AB92C3 /* kyuusyuu.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E151B40622183E7100AB92C3 /* kyuusyuu.jpeg */; };
+		E151B41022183E7200AB92C3 /* kantou.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E151B40722183E7100AB92C3 /* kantou.jpeg */; };
+		E151B41122183E7200AB92C3 /* touhoku.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E151B40822183E7200AB92C3 /* touhoku.jpeg */; };
 		E1ED26B120D6541B00E844CA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1ED26B020D6541B00E844CA /* AppDelegate.swift */; };
 		E1ED26B320D6541B00E844CA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1ED26B220D6541B00E844CA /* ViewController.swift */; };
 		E1ED26B620D6541B00E844CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1ED26B420D6541B00E844CA /* Main.storyboard */; };
@@ -15,6 +25,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E151B3FE22183AE300AB92C3 /* background.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpeg; sourceTree = "<group>"; };
+		E151B40022183E6E00AB92C3 /* shikoku.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shikoku.jpeg; sourceTree = "<group>"; };
+		E151B40122183E6F00AB92C3 /* okinawa.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = okinawa.jpeg; sourceTree = "<group>"; };
+		E151B40222183E7000AB92C3 /* hokkaidou.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hokkaidou.jpeg; sourceTree = "<group>"; };
+		E151B40322183E7000AB92C3 /* kinki.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kinki.jpeg; sourceTree = "<group>"; };
+		E151B40422183E7000AB92C3 /* chuubu.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chuubu.jpeg; sourceTree = "<group>"; };
+		E151B40522183E7100AB92C3 /* chuugoku.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chuugoku.jpeg; sourceTree = "<group>"; };
+		E151B40622183E7100AB92C3 /* kyuusyuu.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kyuusyuu.jpeg; sourceTree = "<group>"; };
+		E151B40722183E7100AB92C3 /* kantou.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kantou.jpeg; sourceTree = "<group>"; };
+		E151B40822183E7200AB92C3 /* touhoku.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = touhoku.jpeg; sourceTree = "<group>"; };
 		E1ED26AD20D6541B00E844CA /* GachaApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GachaApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1ED26B020D6541B00E844CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E1ED26B220D6541B00E844CA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,6 +55,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E17BDD03217C815D0093F533 /* Jpeg */ = {
+			isa = PBXGroup;
+			children = (
+				E151B3FE22183AE300AB92C3 /* background.jpeg */,
+				E151B40422183E7000AB92C3 /* chuubu.jpeg */,
+				E151B40522183E7100AB92C3 /* chuugoku.jpeg */,
+				E151B40222183E7000AB92C3 /* hokkaidou.jpeg */,
+				E151B40722183E7100AB92C3 /* kantou.jpeg */,
+				E151B40322183E7000AB92C3 /* kinki.jpeg */,
+				E151B40622183E7100AB92C3 /* kyuusyuu.jpeg */,
+				E151B40122183E6F00AB92C3 /* okinawa.jpeg */,
+				E151B40022183E6E00AB92C3 /* shikoku.jpeg */,
+				E151B40822183E7200AB92C3 /* touhoku.jpeg */,
+			);
+			path = Jpeg;
+			sourceTree = "<group>";
+		};
 		E1ED26A420D6541B00E844CA = {
 			isa = PBXGroup;
 			children = (
@@ -54,6 +91,7 @@
 		E1ED26AF20D6541B00E844CA /* GachaApp */ = {
 			isa = PBXGroup;
 			children = (
+				E17BDD03217C815D0093F533 /* Jpeg */,
 				E1ED26B020D6541B00E844CA /* AppDelegate.swift */,
 				E1ED26B220D6541B00E844CA /* ViewController.swift */,
 				E1ED26B420D6541B00E844CA /* Main.storyboard */,
@@ -122,9 +160,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E151B40A22183E7200AB92C3 /* okinawa.jpeg in Resources */,
+				E151B40F22183E7200AB92C3 /* kyuusyuu.jpeg in Resources */,
+				E151B3FF22183AE400AB92C3 /* background.jpeg in Resources */,
 				E1ED26BB20D6541F00E844CA /* LaunchScreen.storyboard in Resources */,
+				E151B40C22183E7200AB92C3 /* kinki.jpeg in Resources */,
+				E151B41022183E7200AB92C3 /* kantou.jpeg in Resources */,
 				E1ED26B820D6541F00E844CA /* Assets.xcassets in Resources */,
+				E151B40E22183E7200AB92C3 /* chuugoku.jpeg in Resources */,
+				E151B40922183E7200AB92C3 /* shikoku.jpeg in Resources */,
 				E1ED26B620D6541B00E844CA /* Main.storyboard in Resources */,
+				E151B40B22183E7200AB92C3 /* hokkaidou.jpeg in Resources */,
+				E151B40D22183E7200AB92C3 /* chuubu.jpeg in Resources */,
+				E151B41122183E7200AB92C3 /* touhoku.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,6 +329,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = GachaApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -298,6 +347,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = GachaApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
